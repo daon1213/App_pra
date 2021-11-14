@@ -1,2 +1,2 @@
-# Java_pra
-Java practice
+# App_pra
+App practice
